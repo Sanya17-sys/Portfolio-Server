@@ -8,7 +8,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://your-vercel-app.vercel.app",
+      "https://sanya-17-sys.vercel.app/",
     ],
     methods: ["GET", "POST"],
     credentials: true,
